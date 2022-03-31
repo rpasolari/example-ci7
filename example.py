@@ -9,7 +9,7 @@ def test_add_strings():
 	assert add('space', 'ship') == "spaceship", "The addition of strings is not correct"
 
 def subtract(a, b):
-    return a + b  # <--- fix this in step 7
+    return a - b  # <--- fix this in step 7
 
 
 # uncomment the following test in step 5
